@@ -2,7 +2,7 @@ package javaproject;
 
 import java.security.PublicKey;
 
-public class aeiou {
+public class aeio {
 
 	public static void main(String[] args) {
 		aeiou obj = new aeiou();

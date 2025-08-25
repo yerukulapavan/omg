@@ -1,9 +1,4 @@
-Job Description
-WHO WE ARE
 
-Led by the Chief Information Security Officer (CISO), Technology Risk secures Goldman Sachs against hackers and other cyber threats. We are responsible for detecting and preventing attempted cyber intrusions against the firm, helping the firm develop more secure applications and infrastructure, developing software in support of our efforts, measuring cybersecurity risk, and designing and driving implementation of cybersecurity controls. The team has global presence across the Americas, APAC, India and EMEA.
-
-Within Technology Risk, Tech Risk Engineering creates targeted solutions to detect and solve cybersecurity vulnerabilities and thematic control gaps across the firm. Tech Risk Engineering consists of security, software, and data engineers that utilize technology data to provide solutions for the automated detection of vulnerabilities and threats in the environment, integrate with SDLC and cloud-native pipelines to prevent new exposures, and perform analytics to drive response processes to manage risks and meet regulatory and management requirements. We build exciting, novel solutions and identify gaps to bridge platforms securely across Engineering at Goldman Sachs.
 
 YOUR IMPACT
 

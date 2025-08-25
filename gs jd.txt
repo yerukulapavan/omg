@@ -1,14 +1,4 @@
 
-
-YOUR IMPACT
-
-As a Tech Risk Engineer, you will create targeted solutions to solve thematic control gaps across the firm. You will be part of a team of security, software, and data engineers that identify and curate technology data, provide technology solutions in the threat management space, and drive real-time response processes to meet regulatory and management requirements. You will build exciting, novel solutions and identify gaps to bridge platforms across Core Engineering and interact with areas as diverse as Networking, SDLC, and Entitlements, to name a few.
-
-HOW YOU WILL FULFILL YOUR POTENTIAL
-
-You will operate in an established architecture and leverage existing patterns but also come up with new ones that help in automating and increasing the efficiency of existing systems, as well as collaborate with the Advisory and Regulatory Controls teams to develop new applications. You'll also join a highly motivated and technically savvy team of engineers with a diverse skillset and be a crucial role designing and building within a microservices architecture.
-
-
 BASIC QUALIFICATIONS 
 
 3+ years Java development 

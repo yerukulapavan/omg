@@ -1,0 +1,50 @@
+Job Description
+WHO WE ARE
+
+Led by the Chief Information Security Officer (CISO), Technology Risk secures Goldman Sachs against hackers and other cyber threats. We are responsible for detecting and preventing attempted cyber intrusions against the firm, helping the firm develop more secure applications and infrastructure, developing software in support of our efforts, measuring cybersecurity risk, and designing and driving implementation of cybersecurity controls. The team has global presence across the Americas, APAC, India and EMEA.
+
+Within Technology Risk, Tech Risk Engineering creates targeted solutions to detect and solve cybersecurity vulnerabilities and thematic control gaps across the firm. Tech Risk Engineering consists of security, software, and data engineers that utilize technology data to provide solutions for the automated detection of vulnerabilities and threats in the environment, integrate with SDLC and cloud-native pipelines to prevent new exposures, and perform analytics to drive response processes to manage risks and meet regulatory and management requirements. We build exciting, novel solutions and identify gaps to bridge platforms securely across Engineering at Goldman Sachs.
+
+YOUR IMPACT
+
+As a Tech Risk Engineer, you will create targeted solutions to solve thematic control gaps across the firm. You will be part of a team of security, software, and data engineers that identify and curate technology data, provide technology solutions in the threat management space, and drive real-time response processes to meet regulatory and management requirements. You will build exciting, novel solutions and identify gaps to bridge platforms across Core Engineering and interact with areas as diverse as Networking, SDLC, and Entitlements, to name a few.
+
+HOW YOU WILL FULFILL YOUR POTENTIAL
+
+You will operate in an established architecture and leverage existing patterns but also come up with new ones that help in automating and increasing the efficiency of existing systems, as well as collaborate with the Advisory and Regulatory Controls teams to develop new applications. You'll also join a highly motivated and technically savvy team of engineers with a diverse skillset and be a crucial role designing and building within a microservices architecture.
+
+
+BASIC QUALIFICATIONS 
+
+3+ years Java development 
+Proficiency in Object Oriented design and analysis and understanding of SDLC
+Solid understanding of core Java concepts, common APIs and design patterns
+Hands-on test-driven development with testing frameworks such as Junit
+Motivated and self-directed
+Communication and interpersonal skills
+Demonstrable history of successful project delivery
+Leading a team of developers and helping to define a roadmap
+PREFERRED QUALIFICATIONS
+
+Experience of using Java libraries: Spring; JUnit, Mockito; Jackson
+RDBMS experience: SQL programming; DB2; Sybase; Snowflake; DynamoDB
+NoSQL Databases: Elastic Search, MongoDB
+Web services development: RESTful APIs; Swagger; Jersey
+Web UI development: ReactJS, Javascript; CSS; 
+ 
+#TechRiskCybersecurity
+
+ 
+
+ABOUT GOLDMAN SACHS
+
+At Goldman Sachs, we commit our people, capital, and ideas to help our clients, shareholders, and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities, and investment management firm. Headquartered in New York, we maintain offices around the world. 
+
+We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers. 
+
+We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html
+
+© The Goldman Sachs Group, Inc., 2024. All rights reserved.
+
+
+Goldman Sachs is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, veterans status, disability, or any other characteristic protected by applicable law.
